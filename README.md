@@ -5,3 +5,4 @@ This project focusses on the understanding of the advection-diffusion of voidage
 
 The results obtained and conclusion drawn from this project can provide a good foundation for critical analysis of bubble and slug formations in the gas-fluidized bed. 
 
+A detailed report of the project has been uploaded for further information. 
