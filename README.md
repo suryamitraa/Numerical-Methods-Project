@@ -24,4 +24,5 @@ I thank Dr.James Sutherland for his constant guidance throughout the project and
 
 I thank my advisor/mentor Dr.Jeremy Thornock for constant support and guidance. Provided the required encouragement and space for me to learn the fundamentals of this subject. 
 
-Note: The project I have done is not totally correct/perfect. This is my first experience doing a project in numerical methods in python. Please free to jump if you have any suggestions. I am more than happy to recieve good feedback. 
+#### Note: 
+The project I have done is not totally correct/perfect. This is my first experience doing a project in numerical methods in python. Please free to jump if you have any suggestions. I am more than happy to recieve good feedback. 
